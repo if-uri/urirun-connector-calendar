@@ -3,3 +3,4 @@ build/
 *.egg-info/
 __pycache__/
 *.pyc
+.code2llm_cache
